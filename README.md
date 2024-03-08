@@ -4,6 +4,10 @@
 
 This repository contains the resources for creating a sales data dashboard in Power BI using the provided sales data CSV file. The sales data includes columns such as Order Date, Order ID, Product, Product EAN, Category, Purchase Address, Quantity Ordered, Price Each, Cost Price, Turnover, and Margin.
 
+## Architecture
+
+![Architecture Diagram]("C:\Users\cmald\Downloads\Data-Engineering Architecture.jpg")
+
 ## Files
 
 1. **SalesData.csv**: This CSV file contains the sales data that will be used to create the Power BI dashboard. It includes the sample columns mentioned above.

@@ -6,7 +6,7 @@ This repository contains the resources for creating a sales data dashboard in Po
 
 ## Architecture
 
-![Architecture Diagram]("C:\Users\cmald\Downloads\Data-Engineering Architecture.jpg")
+![Architecture Diagram](C:\Users\cmald\Downloads\Data-Engineering Architecture.jpg)
 
 ## Files
 

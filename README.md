@@ -1,19 +1,3 @@
-## Dashboard Screenshots
-
-### Retail Dashboards
-
-#### Blue Retail Dashboard
-![Blue Retail Dashboard](Dashboard_Screenshots/blue-retails.png)
-
-#### Red Retail Dashboard
-![Red Retail Dashboard](Dashboard_Screenshots/red-retail.png)
-
-### Sales Data Dashboard
-![Sales Data Dashboard](Dashboard_Screenshots/SALES%20DATA%20DASHBOARD.jpg)
-
-
-
-
 # POWER BI DASHBOARDS
 
 ## Overview

@@ -3,7 +3,7 @@
 
 
 #### Retail Dashboard-1
-![Blue Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/blue-retails.png)
+![Blue Retail Dashboard](POWER-BI-DASHBOARDS/POWER-BI-DASHBOARDS/Dashboard_Screenshots/blue-retails.png)
 
 #### Retail Dashboard-2
 ![Red Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/red-retail.png)

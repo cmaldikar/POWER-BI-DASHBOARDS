@@ -1,4 +1,14 @@
 # POWER BI DASHBOARDS
+## Dashboard Screenshots
+
+#### Retail Dashboard-1
+![Blue Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/blue-retails.png)
+
+#### Retail Dashboard-2
+![Red Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/red-retail.png)
+
+### Sales Data Dashboard
+![Sales Data Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/SALES%20DATA%20DASHBOARD.jpg)
 
 ## Overview
 

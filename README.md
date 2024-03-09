@@ -16,8 +16,6 @@ This repository contains the resources for creating sales and retail data dashbo
 
 ## Dashboard Screenshots
 
-### Retail Dashboards
-
 #### Retail Dashboard-1
 ![Blue Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/blue-retails.png)
 

@@ -1,5 +1,16 @@
 # POWER BI DASHBOARDS
 
+
+
+#### Retail Dashboard-1
+![Blue Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/blue-retails.png)
+
+#### Retail Dashboard-2
+![Red Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/red-retail.png)
+
+### Sales Data Dashboard
+![Sales Data Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/SALES%20DATA%20DASHBOARD.jpg)
+
 ## Overview
 
 This repository contains the resources for creating sales and retail data dashboards in Power BI using the provided datasets. The data includes sales data as well as additional retail insights for comprehensive analysis.

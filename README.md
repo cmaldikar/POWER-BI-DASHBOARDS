@@ -14,6 +14,19 @@ This repository contains the resources for creating sales and retail data dashbo
 
 4. **RetailInsightsDashboard.pbix**: The Power BI file that contains the pre-configured retail insights dashboard. You can use this file to open the dashboard in Power BI Desktop and explore the visualizations.
 
+## Dashboard Screenshots
+
+### Retail Dashboards
+
+#### Blue Retail Dashboard
+![Blue Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/blue-retails.png)
+
+#### Red Retail Dashboard
+![Red Retail Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/red-retail.png)
+
+### Sales Data Dashboard
+![Sales Data Dashboard](POWER-BI-DASHBOARDS/Dashboard_Screenshots/SALES%20DATA%20DASHBOARD.jpg)
+
 ## Instructions
 
 1. **Download Data Files**: Make sure to download the `SalesData.csv` and `RetailInsights.xlsx` files from this repository.
